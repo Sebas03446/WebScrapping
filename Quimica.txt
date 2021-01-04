@@ -1,0 +1,59 @@
+H     1     1     1.008[4][5][6][7]     0.00008988     1766     Henry Cavendish     01(griego) hydro- y -gen, ‘engendrador de agua’.
+He     18     1     4.002602[4][6]     0.0001785     1895     Ramsay y Cleve     30(mitología) helios, de la atmósfera del Sol (el dios griego Helios). Se descubrió en el espectro de la corona solar en 1868, aunque no se aceptó hasta que se aisló en la Tierra.
+Li     1     2     6.94[4][5][6][9][7]     0.534     1817     Arfwedson     01(griego) lithos, roca de color rojo muy intenso a la llama.
+Be     2     2     9.0121831[9]     1.85     1797     Vauquelin     01(griego) beryllos, piedra preciosa verde, berilo, mineral que contiene berilio.
+B     13     2     10.81[4][5][6][7]     2.34     1808     Davy y Gay-Lussac     03(árabe) 'buraq, borax, un mineral.
+C     14     2     12.011[4][6][7]     2.267     Prehistoria     Desconocido     02(latín) carbo, 'carbón'.
+N     15     2     14.007[4][6][7]     0.0012506     1772     Rutherford     01(griego) nitron y -gen, ‘engendrador de nitratos’.
+O     16     2     15.999[4][6][7]     0.001429     1774     Priestly y Scheele     01(griego) oxy-, tanto 'forma' y 'ácido', y -gen, ‘engendrador de ácidos’ (oxys).
+F     17     2     18.998403163[8]     0.001696     1886     Moissan     02(latín) fluere, 'fluir'.
+Ne     18     2     20.1797[8][4][5]     0.0008999     1898     Ramsay y Travers     01(griego) neos, 'nuevo'.
+Na     1     3     22.98976928[4]     0.971     1807     Davy     03(árabe) sawda, negra; 'soda'. El símbolo Na viene del latín natrium, (nitrato de sodio)[10], por el color amarillo a la llama.
+Mg     2     3     24.305[7]     1.738     1755     Black     01(griego) de Magnesia, comarca de Tesalia (Grecia).
+Al     13     3     26.9815385[11]     2.698     1825     Oersted     02(latín) alumen, 'alumina', un compuesto (originalmente denominado aluminum).
+Si     14     3     28.085[6][7]     2.3296     1824     Berzelius     02(latín) silex (originalmente silicium), 'sílice'.
+P     15     3     30.973761998[9]     1.82     1669     Brand     01(griego) phoosphoros, ‘portador de luz’ (el fósforo emite luz en la oscuridad porque arde al combinarse lentamente con el oxígeno del aire).
+S     16     3     32.06[4][6][7]     2.067     Prehistoria     Desconocido     02(latín) sulphur, 'sulfuro'.
+Cl     17     3     35.45[4][5][6][7]     0.003214     1774     Scheele     01(griego) chloros, 'amarillo verdoso'.
+Ar     18     3     39.948[13][4][6]     0.0017837     1894     Ramsay y Rayleigh     01(griego) argos, ‘inactivo’ (los gases nobles son poco reactivos).
+K     1     4     39.0983[13]     0.862     1807     Davy     05(inglés) del inglés pot ashes (‘cenizas’), ya que las cenizas de algunas plantas son ricas en potasio. El símbolo K proviene del griego kalium.[10]
+Ca     2     4     40.078[6][4]     1.54     1808     Davy     01(griego) calx, ‘caliza’ (Ca 2CO 3).
+Sc     3     4     44.955908     2.989     1879     Nilson     12(lugar) Scandia, nombre en latín de Escandinavia.
+Ti     4     4     47.867[13]     4.54     1791     Gregor y Klaproth     30(mitología) de los Titanes, los primeros hijos de la Tierra según la mitología griega.
+V     5     4     50.9415[13]     6.11     1801     del Río     30(mitología) de la diosa escandinava Vanadis, antiguo nombre nórdico de la diosa escandinava Freyja.
+Cr     6     4     51.9961[8]     7.15     1797     Vauquelin     01(griego) chroma, ‘color’.
+Mn     7     4     54.938044[5]     7.44     1774     Gahn     01(griego) corrupción del término magnesia negra.
+Fe     8     4     55.845[4]     7.874     Prehistoria     Desconocido     02(latín) ferrum, 'hierro'.
+Co     9     4     58.933194[6]     8.86     1735     Brandt     01(griego) según una versión, proviene del griego kobalos, ‘mina’. Otra versión de Kobold, en alemán, nombre de un espíritu maligno de la mitología alemana.
+Ni     10     4     58.6934[5]     8.912     1751     Cronstedt     04(alemán) kopparnickely del alemán kupfer nickel, ‘cobre del demonio Nick’ o cobre falso (metal que aparece en las minas de cobre, pero no es cobre).
+Cu     11     4     63.546[5][6]     8.96     Prehistoria     Desconocido     02(latín) de cuprum, nombre en latín de la isla de Chipre.
+Zn     12     4     65.38[4]     7.134     Prehistoria     Paracelso     04(alemán) zink, que significa 'origen oscuro'.
+Ga     13     4     69.723[13]     5.907     1875     Lecoq de Boisbaudran     11(país) Gallia, (nombre en latín de Francia).
+Ge     14     4     72.630[14]     5.323     1886     Winkler     11(país) Germania, (nombre en latín de Alemania).
+As     15     4     74.921595[8]     5.776     1250ca. 1250     Albertus Magnus     02(latín) arsenicum, oropimente (auripigmentum) amarillo.
+Se     16     4     78.971[14][6]     4.809     1817     Berzelius     01(griego) selene, nombre griego de la Luna.
+Br     17     4     79.904[7]     3.122     1826     Balard     01(griego) bromos, ‘hedor’.
+Kr     18     4     83.798[4][5]     0.003733     1898     Ramsay y Travers     01(griego) kryptos, ‘oculto, secreto’.
+Rb     1     5     85.4678[5][4]     1.532     1861     Bunsen y Kirchhoff     02(latín) rubidus, 'rojo muy intenso' (a la llama).
+Sr     2     5     87.62[13][4][6]     2.64     1790     Crawford     13(ciudad) Strontian, pequeña ciudad de Escocia.
+Y     3     5     88.90584[4]     4.469     1794     Gadolin     13(ciudad) de Ytterby, pueblo de Suecia.
+Zr     4     5     91.224[4]     6.506     1789     Klaproth     04(alemán) Zargun, ‘color dorado’; del alemán, Zirkoon, 'jargoon'
+Nb     5     5     92.90637[4]     8.57     1801     Hatchett     30(mitología) de Niobe (hija del rey Tántalo).
+Mo     6     5     95.95[13][4]     10.22     1778     Scheele     01(griego) molybdos, ‘plomo’ (los primeros químicos lo confundieron con mena de plomo).
+Tc     7     5     [98][13]     11.5     1937     Perrier y Segrè     01(griego) tekhnètos, ‘artificial’ (fue uno de los primeros sintetizados).
+Ru     8     5     101.07[4]     12.37     1844     Klaus     11(país) Ruthenia (nombre en latín de Rusia).
+Rh     9     5     102.90550[4]     12.41     1803     Wollaston     01(griego) rhodos, 'color rosado'.
+Pd     10     5     106.42[13][4]     12.02     1803     Wollaston     20(astronomía) por el asteroide Pallas, considerado en su momento un planeta, dedicado a la diosa griega de la sabiduría, Palas Atenea.
+Ag     11     5     107.8682[4]     10.501     Prehistoria     Desconocido     02(latín) argentum, 'plata'.[10]
+Cd     12     5     112.414[6][4]     8.69     1817     Strohmeyer y Hermann     02(latín) cadmia, por el rey Cadmo que daba nombre a la región de Kadmea (Tebas) de donde procedía el carbonato de zinc con presencia de cadmio.
+In     13     5     114.818(1)     7.31     1863     Reich y Richter     02(latín) indicus, debido al color índigo (añil) que se observa en su espectro.
+Sn     14     5     118.710[11][4]     7.287     Prehistoria     Desconocido     02(latín) stannum, 'estaño'.
+Sb     15     5     121.760[13][4]     6.685     Prehistoria     Desconocido     03(árabe) ithmid. El símbolo Sb, del latín 'stibium' (del que deriva estibina, mineral del elemento).
+Te     16     5     127.60[4][5]     6.232     1782     von Reichenstein     02(latín) tellus, ‘tierra’ en latín.
+I     17     5     126.90447[5]     4.93     1811     Courtois     01(griego) ioeides, 'violeta'.
+Xe     18     5     131.293[8][4][5]     0.005887     1898     Ramsay y Travers     01(griego) xenon, ‘extranjero, extraño, raro’.
+Cs     1     6     132.90545196[8]     1.873     1860     Kirchhoff y Bunsen     02(latín) caesius, 'color azul celeste'.
+Ba     2     6     137.327[11]     3.594     1808     Davy     01(griego) barys, ‘pesado’.
+Lu     3     6     174.9668[13][4]     9.84     1907     Urbain     13(ciudad) Lutetia, nombre en latín de París.
+Hf     4     6     178.49[4]     13.31     1923     Coster y de Hevesy     13(ciudad) Hafnia, nombre romano de Copenhague.
+Ta     5     6     180.94788[4]     16.654     1802     Ekeberg     30(mitologí
